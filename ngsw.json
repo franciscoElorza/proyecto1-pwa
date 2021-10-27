@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1635302619825,
+  "index": "https://franciscoElorza.github.io/proyecto1-pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://franciscoElorza.github.io/proyecto1-pwa/favicon.ico",
+        "https://franciscoElorza.github.io/proyecto1-pwa/index.html",
+        "https://franciscoElorza.github.io/proyecto1-pwa/main.0098a17c7d11dc60c3f8.js",
+        "https://franciscoElorza.github.io/proyecto1-pwa/manifest.webmanifest",
+        "https://franciscoElorza.github.io/proyecto1-pwa/polyfills.77a1993727a31fa030dd.js",
+        "https://franciscoElorza.github.io/proyecto1-pwa/runtime.18821b64a88c577ecb6a.js",
+        "https://franciscoElorza.github.io/proyecto1-pwa/styles.11cf6b3a7e166a1bde8d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-128x128.png",
+        "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-144x144.png",
+        "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-152x152.png",
+        "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-192x192.png",
+        "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-384x384.png",
+        "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-512x512.png",
+        "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-72x72.png",
+        "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-96x96.png",
+        "https://franciscoElorza.github.io/proyecto1-pwa/assets/shipping.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-128x128.png": "b1caa61a161f0085ab7e36c9117b5183c18e3697",
+    "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-144x144.png": "2ecb381bbae6b35b74c03a242ca18109c7cee18e",
+    "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-152x152.png": "9e83d0e4335ba9338cd5e46a42ae008e9e36a463",
+    "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-192x192.png": "6ffdae0d7b07686cfc237e6f23e594da43e86c25",
+    "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-384x384.png": "e27c26df8a094af7fb9125e1d60f72638ac3f550",
+    "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-512x512.png": "1d18e0de9b645b4319e5cc5265711672595a5bd6",
+    "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-72x72.png": "ce32b6e5f446213ae206dbb753d8bdf8f376037a",
+    "https://franciscoElorza.github.io/proyecto1-pwa/assets/icons/icon-96x96.png": "6c097f6db66b522d57abec095b8d1228a5f2af8f",
+    "https://franciscoElorza.github.io/proyecto1-pwa/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
+    "https://franciscoElorza.github.io/proyecto1-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://franciscoElorza.github.io/proyecto1-pwa/index.html": "ef1207a21e748ec1cf1da2f6b917a46d6597e60d",
+    "https://franciscoElorza.github.io/proyecto1-pwa/main.0098a17c7d11dc60c3f8.js": "0776ae00ed789373c30d64c7e8891c9c7286c663",
+    "https://franciscoElorza.github.io/proyecto1-pwa/manifest.webmanifest": "5b11e35c68e709b7cac3f52993049cc430ce1626",
+    "https://franciscoElorza.github.io/proyecto1-pwa/polyfills.77a1993727a31fa030dd.js": "4cf661614a4ec3db0f1098456e80b8d00128d1d0",
+    "https://franciscoElorza.github.io/proyecto1-pwa/runtime.18821b64a88c577ecb6a.js": "7e55b36d225118431e7c39e9bc0c06b3379216b2",
+    "https://franciscoElorza.github.io/proyecto1-pwa/styles.11cf6b3a7e166a1bde8d.css": "afdfbd6fa0a454418a996df3f3117579c16d465e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
